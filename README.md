@@ -12,3 +12,6 @@ Example Usage:
 
 `python3 app_install.py --stack flash-monkey-02 --token stack_jwt.txt --username someuser@splunk.com --classic ../subjective-sample-app_102.tgz`
 
+## Caveats
+This example is a work in progress, use is without warranty.  It is intended to show the art of the possible, take it, improve it, or throw it in the bin, the decision is yours.
+As i get time i will improve it and add validation and error checking and will add some more instructions as to the necessary python modules to make it work.
